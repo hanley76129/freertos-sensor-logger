@@ -1,0 +1,15 @@
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# CubeIDE settings (optional to exclude)
+.settings/
+.cproject
+.project 
